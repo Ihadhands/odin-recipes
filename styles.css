@@ -23,3 +23,21 @@
     font-size: 15px;
     list-style-type: none;
 }
+
+.sub-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(5, 41, 5);
+    text-align: center;
+    text-decoration: underline;
+}
+
+.text {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.points {
+    list-style-type: none;
+}
